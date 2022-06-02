@@ -1,3 +1,11 @@
+
+<p align = "right" >
+  <a href="https://www.linkedin.com/in/krishna-vishwakarma-988885194/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; 
+  <a href="mailto:krishnapro4321@gmail.com?"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width=40px height=40px title="source: imgur.com" /></a>
+
+</p>
+
+
 <h1 align="center">
 Hi, I'm Krishna Vishwakarma!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
