@@ -18,7 +18,7 @@ Hi, I'm Krishna Vishwakarma!
 </p>
 
 <p>
-<img align="left" src="5eKX.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="380" />
+<img align="left" src="5eKX.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 
 <hr>
