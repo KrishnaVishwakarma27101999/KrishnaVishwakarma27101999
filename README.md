@@ -28,7 +28,7 @@ Data Engineer
 📝 Strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Python, SQL
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Data's
 🎵 Love metal, lofi, jazz and soft music
