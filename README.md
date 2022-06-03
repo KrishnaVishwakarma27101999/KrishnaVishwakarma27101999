@@ -22,7 +22,7 @@ Hi, I'm Krishna Vishwakarma!
 <hr>
 <p>
 
-<img align="left" src="5eKX.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="330" />
+<img align="left" src="5eKX.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
 
 ```
 Data Engineer
