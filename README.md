@@ -169,9 +169,8 @@ Data Engineer
 
 |                                                                    Krishna's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Krishna's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KrishnaVishwakarma27101999&theme=react-dark&hide_border=true&area=true) |
-| ![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=KrishnaVishwakarma27101999&show_icons=true&theme=algolia)              | 
-| ![Krishna's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaVishwakarma27101999&theme=algolia)                    | 
+ 
+ ![Krishna's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaVishwakarma27101999&theme=algolia)                  
     
 
 |                                                                                                      Krishna's Stars                                                                                                       |                                                           Top Languages                                                           |      
